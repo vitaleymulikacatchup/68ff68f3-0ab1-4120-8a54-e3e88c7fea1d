@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { SiteThemeProvider } from '@/components/sections/ThemeProvider';
 
-// Import the locked navbar component
 import NavbarLayoutFloatingOverlay from '@/components/navigation/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
 
 export const metadata: Metadata = {
